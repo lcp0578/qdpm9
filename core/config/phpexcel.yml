@@ -1,0 +1,8 @@
+all:
+  meta:
+    creator:      lcp0578
+    title:        title
+    subject:      subject
+    description:  description
+    keywords:     keywords
+    category:     category
